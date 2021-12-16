@@ -1,10 +1,11 @@
 
 ## About
 Christian achieved an AAAS in Audio Engineering & Midi Music Production at Shoreline Community College
+
 He is currently working on a BS in Music Technology at Columbia College Chicago
 
 ### Coding Experience
-Christian has a basic understanding of the following languages
+Christian has a basic understanding of these languages
 - HTML & CSS
 - C#
 - Javascript
@@ -18,9 +19,7 @@ _more to come..._
 
 ### Music
 
-In addition to coding I also work on music projects
-
-You can listen to my works at the following links
+Additionally you can find Christian's musical works at the following
 
 - [Dexem (SoundCloud)](https://soundcloud.com/dexem)
 - [Wolf Palace (SoundCloud)](https://soundcloud.com/wolfpalace)
@@ -32,9 +31,10 @@ Socials
 -
 -
 
-Or contact me
+Or contact him at
 
 Phone: +1(206) 313 9679
+
 email: officialdexem@gmail.com
 
 
