@@ -17,7 +17,7 @@ Christian has a basic understanding of these languages
 _more to come..._
 
 
-### Music
+## Music
 
 Additionally you can find Christian's musical works at the following
 
