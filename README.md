@@ -4,14 +4,20 @@ Christian achieved an AAAS in Audio Engineering & Midi Music Production at Shore
 
 He is currently working on a BS in Music Technology at Columbia College Chicago
 
-### Coding Experience
+## Coding Experience
 Christian has a basic understanding of these languages
 - HTML & CSS
 - C#
 - Javascript
 
 
-### Projects
+## Projects
+
+- [Text Adventure Game](https://github.com/ColumFreytag/freytagtextadventuregame)
+-
+-
+-
+- [Old Portfolio Project](https://loopyfruits.github.io/)
 
 
 _more to come..._
@@ -35,7 +41,7 @@ Or contact him at
 
 Phone: +1(206) 313 9679
 
-email: officialdexem@gmail.com
+Email: officialdexem@gmail.com
 
 
 
