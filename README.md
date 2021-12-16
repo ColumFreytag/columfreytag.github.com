@@ -1,8 +1,14 @@
 
 ## About
-Here is just a Test
+Christian achieved an AAAS in Audio Engineering & Midi Music Production at Shoreline Community College
+He is currently working on a BS in Music Technology at Columbia College Chicago
 
 ### Coding Experience
+Christian has a basic understanding of the following languages
+- HTML & CSS
+- C#
+- Javascript
+
 
 ### Projects
 
