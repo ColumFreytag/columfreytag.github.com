@@ -14,9 +14,8 @@ Christian has a basic understanding of these languages
 ## Projects
 
 - [Text Adventure Game](https://github.com/ColumFreytag/freytagtextadventuregame)
--
--
--
+- [Item Combiner](https://github.com/ColumFreytag/ItemCombinerFreytag/)
+- [Bakery](https://github.com/ColumFreytag/BakeryFreytag/)
 - [Old Portfolio Project](https://loopyfruits.github.io/)
 
 
@@ -32,10 +31,10 @@ Additionally you can find Christian's musical works at the following
 - [Sketch Account (Clyp.it)](https://clyp.it/user/2ghqdtew)
 
 
-Socials
--
--
--
+## Socials
+- [Instagram](https://www.instagram.com/dexemm/)
+- [YouTube (Placeholder)](https://www.youtube.com/channel/UC_mXj7IREuvgH1ziDXx6NRg)
+- [LinkedIn (Placeholder)]
 
 Or contact him at
 
