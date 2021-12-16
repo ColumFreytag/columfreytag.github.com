@@ -2,15 +2,34 @@
 ## About
 Here is just a Test
 
-###Coding Experience
+### Coding Experience
 
-###Projects
+### Projects
 
 
 _more to come..._
 
 
-###Music
+### Music
+
+In addition to coding I also work on music projects
+
+You can listen to my works at the following links
+
+- [Dexem (SoundCloud)](https://soundcloud.com/dexem)
+- [Wolf Palace (SoundCloud)](https://soundcloud.com/wolfpalace)
+- [Sketch Account (Clyp.it)](https://clyp.it/user/2ghqdtew)
+
+
+Socials
+-
+-
+-
+
+Or contact me
+
+Phone: +1(206) 313 9679
+email: officialdexem@gmail.com
 
 
 
